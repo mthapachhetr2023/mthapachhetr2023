@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mthapachhetr2023
+- 👋 Hi, I’m @madan_thapa_chhetri
 - 👀 I’m interested in GIS application,Geospatial technology, Machine learning and Statitics
 - 🌱 I’m currently learning R programming and other related things
 - 💞️ I’m looking to collaborate on exploring the things needed for natural hazard monitoring and mapping, also interested in vegetation mapping
