@@ -2,7 +2,7 @@
 - 👀 I’m interested in GIS application, Geospatial technology, Machine learning and statistics
 - 🌱 I’m currently learning Python and R programming and other related things
 - 💞️ I’m looking to collaborate on exploring the things needed for natural hazard monitoring and mapping; also interested in vegetation mapping
-- 📫 How to reach me 
+- 📫 How to reach me email:mthapachhetr2023@fau.edu, madanthapachhetri79@gmail.com
 
 <!---
 mthapachhetr2023/mthapachhetr2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
