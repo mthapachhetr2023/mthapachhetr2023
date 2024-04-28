@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @madan_thapa_chhetri
+- I am interested in water resources management, GIS applications, and remote sensing.
+- Currently working as a GRA at Florida Atlantic University for the Centre of Water Risk Reduction and Resiliency(CWR3) in a project named Watershed Masterplan Phase II.
 - This repository consists of Python code that was used in my master's thesis titled: Evaluating the Impact of LiDAR DEM Uncertainties on Inundation Modeling in 
 Coastal Sub-Watersheds: An Exploration Via Deterministic and Probabilistic Approaches
 - GSS_Thesis.py simulates the error distribution and uses that as a correction factor for LiDAR DEM, and then corrected LiDAR DEM was used in bathtub modeling of inundation using the water level obtained from the Cascade 2001 modeling, and finally, after a series of iterations of modeling, probability of flood risk map was computed using the (total no. of flooded cell counts divided by no.of iterations) times 100.
