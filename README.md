@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mthapachhetr2023
+- 👋 Hi, I’m @ Madan Thapa Chhetri
 - Ph.D. Student at Lehigh University in Civil and Environmental Engineering.
 - Associated with the CAWS lab at Lehigh University
 - 👀 I’m interested in GIS, Watershed and Water Quality Modeling and  Management, Agent-Based Modeling
