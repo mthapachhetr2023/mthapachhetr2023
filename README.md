@@ -3,8 +3,8 @@
 - Associated with the CAWS lab at Lehigh University
 - Member of Center for Catastrophe Modeling and Resilience , Lehigh University
 - 👀 I’m interested in GIS, Watershed and Water Quality Modeling and Management, Agent-Based Modeling
-- 🌱 I’m currently learning hydrological simulation using SWAT
-- 💞️ I’m looking to collaborate on ABM, Coupled Natural and Human Systems
+- 🌱 I’m currently learning LLM based agent based learning, climate stress testing and uncertainty decompositions in the coupled human and natural systesm
+- 💞️ I’m looking to collaborate on ABM, Coupled Natural and Human Systems, climate stress testing
 - 📫 How to reach me: chhetrim79@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: From Country of Mt. Everest, I Love making maps, writing poems, listening to old songs, and playing soccer, cricket, and chess.
